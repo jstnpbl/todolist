@@ -24,3 +24,19 @@ Check out the live version here: [Smart To-Do List](https://jstnpbl.github.io/to
 1. Clone the repository:
    ```bash
    git clone https://github.com/jstnpbl/todolist.git
+
+## Future Enhancements (Roadmap)
+In the near future, I plan to implement the following enhancements:
+
+- **Enhanced Task Creation:** Prompt users to set the priority level (High, Medium, Low) and a deadline when adding a new task, rather than setting them separately.
+- **Improved Deadline Display:** Present the deadline for each task in a clear and user-friendly format.
+- **Minor UI/UX Improvements:** Continue to refine the user interface for better intuitiveness and visual appeal.
+
+### Potential Future Ideas
+These are more ambitious features that may be explored in the longer term:
+
+- Implement a tagging system for better task categorization.
+- Add reminders and notifications (e.g., browser-based).
+- Explore a basic calendar view integration.
+- Consider a more significant UI/UX redesign.
+- Investigate the feasibility of a mobile-responsive design or a basic mobile app.
